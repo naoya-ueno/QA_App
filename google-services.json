@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "56601109427",
+    "firebase_url": "https://qaapp-2a642.firebaseio.com",
+    "project_id": "qaapp-2a642",
+    "storage_bucket": "qaapp-2a642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56601109427:android:29cb9b272af3b5fd",
+        "android_client_info": {
+          "package_name": "jp.techacademy.naoya.ueno.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56601109427-6pirsn111tk2ko940pt9q8dmaqmg1i18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxRSxsWK2BDFIytr32JO9QkQu0okdo-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
